@@ -1,4 +1,4 @@
-# Olá eu sou Lucas Fujarra 👋🏻
+# Olá! Eu sou Lucas Fujarra 👋🏻
 ### ◻ Full Stack Developer 👨🏻‍💻 
 ### ◻ Cyber Security 🔐
 ### ◻ TI Support 💻
